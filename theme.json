@@ -1,0 +1,12 @@
+{
+	"id":"psDIVA",
+	"name":"psDIVA",
+	"author":"Sophie-bear",
+	"version":"1.0",
+	"copyright":"2021 Sophie-bear",
+	"license":"BSD 4-Clause Attribution",
+	"website":"https://ojdproject.com",
+	"styles":[
+		{"id":"psDIVA", 			"name":"PlayStation DIVA", "file":"theme-ps-DIVA-analog.html"}
+	]
+}
