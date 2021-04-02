@@ -7,6 +7,9 @@
 	"license":"BSD 4-Clause Attribution",
 	"website":"https://ojdproject.com",
 	"styles":[
-		{"id":"psDIVA", 			"name":"PlayStation DIVA", "file":"theme-ps-DIVA-analog.html"}
+		{"id":"psDIVA", 			"name":"PlayStation DIVA", "file":"theme-ps-DIVA-analog.html"},
+		{"id":"psDIVA_f",		"name":"PlayStation DIVA Filled", "file":"theme-ps-DIVA-analog_filled.html"},
+		{"id":"psDIVA_dual",		"name":"PlayStation DIVA Dual", "file":"theme-ps-DIVA-analog_dual.html"},
+		{"id":"psDIVA_dualf",		"name":"PlayStation DIVA Dual Filled", "file":"theme-ps-DIVA-analog_dualfilled.html"}
 	]
 }

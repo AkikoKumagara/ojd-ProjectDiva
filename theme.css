@@ -47,3 +47,35 @@
 	background:white;
 	background: radial-gradient(ellipse at center, #FFF 0%,#AAA 100%);
 }
+.theme-analog-dual-left {
+	position:absolute;
+	top:50%;
+	left:50%;
+	width:20px;
+	height:20px;
+	margin-left:-10px;
+	margin-top:-27px;
+	background:#333;
+	border-radius:100%;
+	background: radial-gradient(ellipse at center, #333 0%,#000000 100%);
+}
+.theme-analog-dual-right {
+	position:absolute;
+	top:50%;
+	left:50%;
+	width:20px;
+	height:20px;
+	margin-left:-10px;
+	margin-top:7px;
+	background:#333;
+	border-radius:100%;
+	background: radial-gradient(ellipse at center, #333 0%,#000000 100%);
+}
+.theme-analog-dual-left.active {
+	background:white;
+	background: radial-gradient(ellipse at center, #FFF 0%,#AAA 100%);
+}
+.theme-analog-dual-right.active {
+	background:white;
+	background: radial-gradient(ellipse at center, #FFF 0%,#AAA 100%);
+}
